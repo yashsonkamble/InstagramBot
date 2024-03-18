@@ -1,0 +1,1 @@
+Add your instagram username in the "usernm.txt" file and password in the "pass.txt" file and run the script
